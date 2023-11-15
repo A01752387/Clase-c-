@@ -26,4 +26,12 @@ yo.mover();
 yo.imprimir();
 yo.mover();
 yo.imprimir();
+
+Jugador tu;
+yo.set_nombre("Mike");
+yo.imprimir();
+yo.mover();
+yo.imprimir();
+yo.mover();
+yo.imprimir();
 }
